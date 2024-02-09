@@ -1,10 +1,10 @@
 # Darshan Sharma
 
 ## Contact Information
-- **Email:**sharmadarshan3467@gmail.com
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/darshansharma)
-- **GitHub:** [Your GitHub Profile](https://github.com/darshansharma456)
-- **Portfolio/Website:** [Your Portfolio/Website](https://www.yourportfolio.com)
+- **Email:**[sharmadarshan3467@gmail.com]
+- **LinkedIn:** (https://www.linkedin.com/in/darshansharma)
+- **GitHub:** (https://github.com/darshansharma456)
+- **Portfolio/Website:**(https://www.yourportfolio.com)
 
 ## Summary
 Motivated and detail-oriented professional with 1 year of experience in Web devekopment. Adept at [Key Skill 1], [Key Skill 2], and [Key Skill 3]. Proven track record of [notable achievement or accomplishment].
